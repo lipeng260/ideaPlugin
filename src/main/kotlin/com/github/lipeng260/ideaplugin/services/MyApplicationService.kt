@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lipeng260.ideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lipeng260.ideaplugin.MyBundle
 
 class MyApplicationService {
 
